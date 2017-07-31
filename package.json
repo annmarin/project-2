@@ -1,0 +1,27 @@
+{
+  "name": "kodilla-project-2",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annmarin/project-2.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Anna Brodka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annmarin/project-2/issues"
+  },
+  "homepage": "https://github.com/annmarin/project-2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
